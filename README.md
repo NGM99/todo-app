@@ -6,10 +6,12 @@ Aplicación Full Stack para gestión de tareas.
 
 ## Estructura del proyecto
 
+```text
 todo-app/
 ├── todo-app-backend/    → API REST con Node.js y Express 
 ├── todo-app-frontend/   → Aplicación web con HTML, CSS y JavaScript (Vite)
 └── README.md
+```
 
 ---
 
